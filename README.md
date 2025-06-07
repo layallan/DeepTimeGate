@@ -20,9 +20,9 @@ pip install -r requirements.txt
 
 Download from Google Drive:
 
-- [Input (scat_frames)](YOUR_LINK_HERE)  
-- [Ground Truth (mask_frames)](YOUR_LINK_HERE)  
-- [Pretrained Model](YOUR_LINK_HERE)
+- [Input (scat_frames)](https://drive.google.com/drive/folders/1eTaAwa4XMGXxxxYOSrMnFJLggv51AgU6?usp=sharing)  
+- [Ground Truth (mask_frames)](https://drive.google.com/drive/folders/1eTaAwa4XMGXxxxYOSrMnFJLggv51AgU6?usp=sharing)  
+- [Pretrained Model](https://drive.google.com/drive/folders/1eTaAwa4XMGXxxxYOSrMnFJLggv51AgU6?usp=sharing)
 
 Place them as:
 
