@@ -2,6 +2,13 @@
 
 DeepTimeGate is a PyTorch-based temporal segmentation model designed to process input scattering frames (`scat_frames`) and generate accurate mask predictions (`mask_frames`).
 
+# Paper
+
+Hybrid-supervised Deep Reconstruction for Wide-field Upconversion Imaging on Epsilon-Near-Zero Materials 
+
+Hao Zhang*†, Yang Xu†, Wenwen Zhang, Saumya Choudhary, Robert W. Boyd and Sergio Carbajo Garcia
+
+
 ## Files
 
 - `train_deepgate.py` – training script  
