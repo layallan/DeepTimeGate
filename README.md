@@ -4,9 +4,9 @@ DeepTimeGate is a PyTorch-based temporal segmentation model designed to process 
 
 # Paper
 
-Hybrid-supervised Deep Reconstruction for Wide-field Upconversion Imaging on Epsilon-Near-Zero Materials 
+# Title: Hybrid-supervised Deep Reconstruction for Wide-field Upconversion Imaging on Epsilon-Near-Zero Materials 
 
-Hao Zhang*†, Yang Xu†, Wenwen Zhang, Saumya Choudhary, Robert W. Boyd and Sergio Carbajo Garcia
+Author: Hao Zhang*†, Yang Xu†, Wenwen Zhang, Saumya Choudhary, Robert W. Boyd and Sergio Carbajo Garcia
 
 
 ## Files
