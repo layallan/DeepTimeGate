@@ -8,7 +8,7 @@ DeepTimeGate is a PyTorch-based temporal segmentation model designed to process 
 
 Author: Hao Zhang*†, Yang Xu†, Wenwen Zhang, Saumya Choudhary, Robert W. Boyd and Sergio Carbajo Garcia
 
-
+![Figure 1](images/Figure1.png)
 ## Files
 
 - `train_deepgate.py` – training script  
