@@ -6,7 +6,8 @@ DeepTimeGate is a PyTorch-based temporal segmentation model designed to process 
 
 # Title: Hybrid Deep Reconstruction for Vignetting-Free Upconversion Imaging through Scattering in ENZ Materials
 
-Author: Hao Zhang*†, Yang Xu†, Wenwen Zhang, Saumya Choudhary, Robert W. Boyd and Sergio Carbajo Garcia
+Author: Hao Zhang*†, Yang Xu†, Wenwen Zhang, Saumya Choudhary, M. Zahirul Alam, Long D. Nguyen, Matthew Klein, Shivashankar Vangala, J. Keith Miller, Eric G. Johnson, Joshua R. Hendrickson, Robert W. Boyd and Sergio Carbajo
+
 
 ![Figure 1](image/Figure1.png)
 ## Files
