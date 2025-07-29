@@ -56,3 +56,5 @@ python test_deepgate.py --data_dir ./data --model_path ./models/best_deeptimegat
 ```
 
 ## Citation
+Please cite:
+https://doi.org/10.5281/zenodo.16551119
